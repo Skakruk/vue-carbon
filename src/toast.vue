@@ -50,7 +50,7 @@ export default {
   text-align: center;
   padding: 10px;
   z-index: 1000;
-  transform: translate3d(-50%, 0, 0);
+  transform: translateX(-50%);
   .toast-text{
     font-size: 1.4rem;
     display: block;
